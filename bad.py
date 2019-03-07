@@ -1,0 +1,11 @@
+str1 = input("#1Wpisz cos: ")
+str2 = input("#2Wpisz cos: ")
+str3 = input("#3Wpisz cos: ")
+str4 = input("#4Wpisz cos: ")
+str5 = input("#5Wpisz cos: ")
+
+print(len(str1))
+print(len(str2))
+print(len(str3))
+print(len(str4))
+print(len(str5))
