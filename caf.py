@@ -1,0 +1,10 @@
+zbior1 = set(['Elblag', 'Grudziadz', 'Warszawa', 'Chelm', 'Lublin', 'Plonsk'])
+zbior2 = set(['Siedlce', 'Zawiercie', 'Warszawa', 'Elblag', 'Lublin', 'Chelm'])
+zbior3 = set(['Ostroleka', 'Chelm', 'Mietne', 'Plonsk', 'Warszawa', 'Przemysl'])
+
+zbior4 = zbior1.union(zbior2, zbior3)
+print(zbior4)
+zbior5 = zbior1.intersection(zbior2, zbior3)
+print(zbior5)
+zbior6 = zbior1.difference(zbior2)
+print(zbior6)
