@@ -1,6 +1,6 @@
-| cw 1 | cw 2 | cw 3| cw 4| cw 5| cw 6| kolo 1|
-|---|---|---|---|---|---|---|
-| 2 pkt | 2 pkt | 1,5 pkt | 2 pkt| 0 pkt  | 2 pkt | 23 pkt |
+| cw 1 | cw 2 | cw 3| cw 4| cw 5| cw 6| kolo 1|  cw8 |
+|---|---|---|---|---|---|---|---|
+| 2 pkt | 2 pkt | 1,5 pkt | 2 pkt| 0 pkt  | 2 pkt | 23 pkt | 0 pkt |
 
 Uwagi:
 
@@ -28,3 +28,7 @@ Uwagi:
 * faa - klucz do deszyfracji powinien być przerobiony kodem
 * fab - konstruktor jest bez parametru
 * faf - funkcja nie zwraca krotki
+
+### cw 8
+
+* brak
