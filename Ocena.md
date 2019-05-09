@@ -1,6 +1,6 @@
-| cw 1 | cw 2 | cw 3| cw 4| cw 5| cw 6| kolo 1|  cw8 | cw 9 |
-|---|---|---|---|---|---|---|---|---|
-| 2 pkt | 2 pkt | 1,5 pkt | 2 pkt| 0 pkt  | 2 pkt | 23 pkt | 0 pkt | 2 pkt |
+| cw 1 | cw 2 | cw 3| cw 4| cw 5| cw 6| kolo 1|  cw8 | cw 9 | cw 10 |
+|---|---|---|---|---|---|---|---|---|---|
+| 2 pkt | 2 pkt | 1,5 pkt | 2 pkt| 0 pkt  | 2 pkt | 23 pkt | 0 pkt | 2 pkt | 0 pkt |
 
 Uwagi:
 
@@ -36,3 +36,7 @@ Uwagi:
 ### cw 9
 
 * uwagi przekazane na zajęciach
+
+### cw 10
+
+brak
